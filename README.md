@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LeoniSZ, my real name is Elioenai Roberto. If you have any problem saying my name you can try spell Leoni quickly xD.
-- 👀 I’m interested in front-end basically, but trying too reach a fullstack level
-- 🌱 I’m currently learning web develpment: JavaScript, ReactJS and NodeJS. I also have a Java background;
+- 👀 I’m interested in back-end programming.
+- 🌱 I’m currently learning web develpment: Java;
 - You can contact me by my e-mail: elioenaipro@gmail.com
